@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatthewCho8
-- 👀 I’m interested in bioinformatics & predictive analytics.
+- 👀 I’m interested in bioinformatics & modelling sports.
 
 
 <!---
